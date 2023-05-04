@@ -12,7 +12,7 @@ import (
 
 const (
 	BotToken   = "6254482252:AAGBiwZdfPtOa_3gIilTmC-25VwLY4HQxyI"
-	WebhookURL = "http://127.0.0.1:8080/"
+	WebhookURL = "https://app-golang-telebot.herokuapp.com"
 )
 
 var rss = map[string]string{
